@@ -2,3 +2,7 @@
 function lowerCaseDrivers(collection){
   return collection.map(driver => driver.toLowerCase());
 };
+
+function nameToAttributes(){
+
+};
