@@ -8,5 +8,5 @@ function nameToAttributes(collection){
 };
 
 function attributesToPhrase(object) {
-  return collection.map(person => `${person.name} is from ${person.hometown}`)
+  return collection.map(person => `${person.name} is from ${person.hometown}`);
 };
