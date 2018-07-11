@@ -1,4 +1,4 @@
 // Code your solution in this file.
-function lowerCaseDrivers(collection, attribute){
+function lowerCaseDrivers(collection){
 
 };
