@@ -4,5 +4,5 @@ function lowerCaseDrivers(collection){
 };
 
 function nameToAttributes(collection){
-  return collection.map(name => { firstName: name.split(' ')[0], lastName: name.split(' ')[1] } );
+  return collection.map(name => { 'firstName:' name.split(' ')[0], 'lastName': name.split(' ')[1] } );
 };
